@@ -12,6 +12,7 @@ The dashboard provides an executive-level view of sales performance and helps st
 
 
 **Objectives**
+
 Analyze overall sales and profit performance.
 Identify top-performing and loss-making products.
 Track monthly sales and profit trends.
@@ -22,6 +23,7 @@ Build an interactive dashboard for business decision-making.
 
 
 **Tools & Technologies**
+
 SQL – Data extraction and business queries
 Python (Pandas, NumPy, Matplotlib) – Data cleaning and exploratory data analysis
 Power BI – Interactive dashboard development
@@ -29,6 +31,7 @@ Excel/CSV – Dataset source and preprocessing
 
 
 **Key Performance Indicators (KPIs)**
+
 Total Sales
 Total Profit
 Total Orders
@@ -56,6 +59,7 @@ Discount Impact Analysis
 
 
 **Key Business Insights**
+
 Identified products generating the highest revenue and profit.
 Highlighted products contributing to business losses.
 Analyzed seasonal sales patterns and monthly performance trends.
@@ -65,6 +69,7 @@ Compared category and segment performance to support strategic decisions.
 
 
 **Project Workflow**
+
 Data Collection
 Data Cleaning & Preprocessing
 Exploratory Data Analysis (EDA)
@@ -74,6 +79,7 @@ Business Insights Generation
 
 
 **Files Included**
+
 Superstore.csv – Raw dataset
 Superstore_Dashboard.pbix – Power BI dashboard
 SQL_Queries.sql – Business analysis queries
@@ -82,6 +88,7 @@ README.md – Project documentation
 
 
 **Outcome**
+
 The project demonstrates practical skills in data cleaning, data analysis, SQL querying, KPI development, data visualization, and dashboard design. It showcases the ability to convert raw business data into meaningful insights and interactive reports that support business decision-making.
 
 
