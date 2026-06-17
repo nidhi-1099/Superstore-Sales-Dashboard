@@ -81,9 +81,13 @@ The dashboard provides an executive-level view of sales performance and helps st
 **Files Included**
 
 Superstore.csv – Raw dataset
+
 Superstore_Dashboard.pbix – Power BI dashboard
+
 SQL_Queries.sql – Business analysis queries
-EDA_Notebook.ipynb – Python analysis notebook
+
+e-commerce_python2.ipynb – Python analysis notebook
+
 README.md – Project documentation
 
 
