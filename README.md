@@ -92,6 +92,8 @@ README.md – Project documentation
 The project demonstrates practical skills in data cleaning, data analysis, SQL querying, KPI development, data visualization, and dashboard design. It showcases the ability to convert raw business data into meaningful insights and interactive reports that support business decision-making.
 
 
-**Skills Demonstrated:** SQL, Python, Power BI, Data Cleaning, Data Visualization, Business Analytics, KPI Reporting, Dashboard Development, Exploratory Data Analysis (EDA).
+**Skills Demonstrated:** 
+
+SQL, Python, Power BI, Data Cleaning, Data Visualization, Business Analytics, KPI Reporting, Dashboard Development, Exploratory Data Analysis (EDA).
 
 The project demonstrates practical skills in data cleaning, data analysis, SQL querying, KPI development, data visualization, and dashboard design. It showcases the ability to convert raw business data into meaningful insights and interactive reports that support business decision-making.
