@@ -3,6 +3,12 @@
 Interactive Power BI dashboard analyzing Superstore sales, profit, customer behavior, and product performance using DAX, SQL, and data visualization techniques.
 Superstore Sales Analysis Dashboard
 
+## Dashboard Screenshots
+
+![Sales Dashboard Page 1](images/sales-page-1.png)
+
+![Sales Dashboard Page 2](images/sales-page-2.png)
+
 
 # Superstore Sales Dashboard | Power BI
 
