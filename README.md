@@ -4,6 +4,16 @@ This project is an interactive Power BI dashboard created to analyze Superstore 
 
 The main idea behind this project was to convert raw retail transaction data into a simple dashboard that can help understand business performance quickly.
 
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](images/sales-page-1.png)
+
+### Product Performance
+
+![Product Performance](images/sales-page-2.png)
+
 ## Short Description
 
 The Superstore Sales Dashboard gives a clear overview of how the business is performing across different regions, cities, product categories, sub-categories, customers, and shipping modes. It helps track important KPIs like total sales, total profit, average discount, profit margin, total orders, total quantity, and total loss.
@@ -219,16 +229,6 @@ After completing this project, I was able to:
 To understand this project, first check the dashboard screenshots in the preview section. The first page explains the overall sales and profit performance, while the second page focuses more on product performance, city-level sales, profit, loss, and quantity.
 
 If the Power BI file is added to the repository, it can be opened in Power BI Desktop to explore the dashboard interactively using filters like quarter, city, region, and year.
-
-## Dashboard Preview
-
-### Executive Dashboard
-
-![Executive Dashboard](images/sales-page-1.png)
-
-### Product Performance
-
-![Product Performance](images/sales-page-2.png)
 
 ## Conclusion
 
